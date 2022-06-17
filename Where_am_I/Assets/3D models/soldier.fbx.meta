@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 253446b1217a7b842883eaa6a6c303eb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: character1var1
+    100002: iraqi1_Head
+    100004: iraqi1_Hips
+    100006: iraqi1_joint19
+    100008: iraqi1_LeftArm
+    100010: iraqi1_LeftArmRoll
+    100012: iraqi1_LeftFoot
+    100014: iraqi1_LeftForeArm
+    100016: iraqi1_LeftForeArmRoll
+    100018: iraqi1_LeftHand
+    100020: iraqi1_LeftHandIndex1
+    100022: iraqi1_LeftHandIndex2
+    100024: iraqi1_LeftHandIndex3
+    100026: iraqi1_LeftHandMiddle1
+    100028: iraqi1_LeftHandMiddle2
+    100030: iraqi1_LeftHandMiddle3
+    100032: iraqi1_LeftHandPinky1
+    100034: iraqi1_LeftHandPinky2
+    100036: iraqi1_LeftHandRing1
+    100038: iraqi1_LeftHandRing2
+    100040: iraqi1_LeftHandRing3
+    100042: iraqi1_LeftHandThumb1
+    100044: iraqi1_LeftHandThumb2
+    100046: iraqi1_LeftHandThumb3
+    100048: iraqi1_LeftLeg
+    100050: iraqi1_LeftLegRoll
+    100052: iraqi1_LeftShoulder
+    100054: iraqi1_LeftToeBase
+    100056: iraqi1_LeftUpLeg
+    100058: iraqi1_Neck
+    100060: iraqi1_RightArm
+    100062: iraqi1_RightArmRoll
+    100064: iraqi1_RightFoot
+    100066: iraqi1_RightForeArm
+    100068: iraqi1_RightForeArmRoll
+    100070: iraqi1_RightHand
+    100072: iraqi1_RightHandIndex1
+    100074: iraqi1_RightHandIndex2
+    100076: iraqi1_RightHandIndex3
+    100078: iraqi1_RightHandMiddle1
+    100080: iraqi1_RightHandMiddle2
+    100082: iraqi1_RightHandMiddle3
+    100084: iraqi1_RightHandPinky1
+    100086: iraqi1_RightHandPinky2
+    100088: iraqi1_RightHandRing1
+    100090: iraqi1_RightHandRing2
+    100092: iraqi1_RightHandRing3
+    100094: iraqi1_RightHandThumb1
+    100096: iraqi1_RightHandThumb2
+    100098: iraqi1_RightHandThumb3
+    100100: iraqi1_RightLeg
+    100102: iraqi1_RightLegRoll
+    100104: iraqi1_RightShoulder
+    100106: iraqi1_RightToeBase
+    100108: iraqi1_RightUpLeg
+    100110: iraqi1_Spine
+    100112: iraqi1_Spine1
+    100114: //RootNode
+    400000: character1var1
+    400002: iraqi1_Head
+    400004: iraqi1_Hips
+    400006: iraqi1_joint19
+    400008: iraqi1_LeftArm
+    400010: iraqi1_LeftArmRoll
+    400012: iraqi1_LeftFoot
+    400014: iraqi1_LeftForeArm
+    400016: iraqi1_LeftForeArmRoll
+    400018: iraqi1_LeftHand
+    400020: iraqi1_LeftHandIndex1
+    400022: iraqi1_LeftHandIndex2
+    400024: iraqi1_LeftHandIndex3
+    400026: iraqi1_LeftHandMiddle1
+    400028: iraqi1_LeftHandMiddle2
+    400030: iraqi1_LeftHandMiddle3
+    400032: iraqi1_LeftHandPinky1
+    400034: iraqi1_LeftHandPinky2
+    400036: iraqi1_LeftHandRing1
+    400038: iraqi1_LeftHandRing2
+    400040: iraqi1_LeftHandRing3
+    400042: iraqi1_LeftHandThumb1
+    400044: iraqi1_LeftHandThumb2
+    400046: iraqi1_LeftHandThumb3
+    400048: iraqi1_LeftLeg
+    400050: iraqi1_LeftLegRoll
+    400052: iraqi1_LeftShoulder
+    400054: iraqi1_LeftToeBase
+    400056: iraqi1_LeftUpLeg
+    400058: iraqi1_Neck
+    400060: iraqi1_RightArm
+    400062: iraqi1_RightArmRoll
+    400064: iraqi1_RightFoot
+    400066: iraqi1_RightForeArm
+    400068: iraqi1_RightForeArmRoll
+    400070: iraqi1_RightHand
+    400072: iraqi1_RightHandIndex1
+    400074: iraqi1_RightHandIndex2
+    400076: iraqi1_RightHandIndex3
+    400078: iraqi1_RightHandMiddle1
+    400080: iraqi1_RightHandMiddle2
+    400082: iraqi1_RightHandMiddle3
+    400084: iraqi1_RightHandPinky1
+    400086: iraqi1_RightHandPinky2
+    400088: iraqi1_RightHandRing1
+    400090: iraqi1_RightHandRing2
+    400092: iraqi1_RightHandRing3
+    400094: iraqi1_RightHandThumb1
+    400096: iraqi1_RightHandThumb2
+    400098: iraqi1_RightHandThumb3
+    400100: iraqi1_RightLeg
+    400102: iraqi1_RightLegRoll
+    400104: iraqi1_RightShoulder
+    400106: iraqi1_RightToeBase
+    400108: iraqi1_RightUpLeg
+    400110: iraqi1_Spine
+    400112: iraqi1_Spine1
+    400114: //RootNode
+    2100000: character1_var1_Texture
+    4300000: character1var1
+    9500000: //RootNode
+    13700000: character1var1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
